@@ -228,6 +228,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 
 ## 👤 Author
 
-Arnav Jain
+Aastha Khinvasara
 
-- GitHub: [@iarnavjn](https://github.com/iarnavjn)
+- GitHub: [@aasthak15](https://github.com/aasthak15)
